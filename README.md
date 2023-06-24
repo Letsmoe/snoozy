@@ -14,13 +14,9 @@
 <h3 align="center">Snoozy</h3>
 
   <p align="center">
-    The CyclersHub is the perfect online community to connect with like-minded individuals and plan your next cycling adventure.
+    An innovative mobile app that automatically stops audio playback when you fall asleep. Seamlessly integrates with popular audio apps, provides customizable sleep settings, and offers smart wake-up features.
     <br />
-    <a href="https://docs.cyclershub.com"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://cyclershub.com">Website</a>
-    ·
+		<br />
     <a href="https://github.com/letsmoe/snoozy/issues">Report Bug</a>
     ·
     <a href="https://github.com/letsmoe/snoozy/issues">Request Feature</a>
